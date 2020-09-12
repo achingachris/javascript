@@ -4,6 +4,6 @@
 
 
 // example
-const langauges = ['Java', 'JavaScript', 'PHP', 'Python']
+const langauges = ['Java', 'JavaScript', 'PHP', 'Python', 'GoLang']
 
 displayLang = langauges.forEach(lang => console.log(`This is ${lang}`));
