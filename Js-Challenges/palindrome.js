@@ -5,5 +5,5 @@ const palindromeValidate = (word) => {
     let reverseWord = word.split('').reduce((acc, char) => char + acc, '');
     return reverseWord === word ? `${word} is a palindrome`: `${word} is not a palindrome`;
 }
-console.log(palindromeValidate("twitter"));
+console.log(palindromeValidate("dad"));
 

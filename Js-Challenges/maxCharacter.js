@@ -1,7 +1,7 @@
 function maxChar(str) {
   const charMap = {};
   let max = 0;
-  let maxChar = '';
+  let maxChar = "";
 
   // create character map
   for (let char of str) {
@@ -25,4 +25,4 @@ function maxChar(str) {
   return maxChar;
 }
 
-console.log(maxChar('qokoowue'))
+console.log(maxChar("tweeter"));
