@@ -1,7 +1,7 @@
-# Contributing To JavaScript101
+# JavaScript Challenges
 
 <div align="center">
-    How to Contribute
+    The best way to learn is by practising
 </div>
 
 ## Table Of Content

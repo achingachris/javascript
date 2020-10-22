@@ -1,7 +1,7 @@
-# Contributing To JavaScript101
+# ES6 
 
 <div align="center">
-    How to Contribute
+    Ecma Script New Features
 </div>
 
 ## Table Of Content
